@@ -1,0 +1,16 @@
+{
+  "name": "Virtual Meet",
+  "version": "1.0.0",
+  "description": "A video calling website. Do projects, or share your screen! Your choice!",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
